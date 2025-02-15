@@ -1,1 +1,3 @@
 # AI-Story-Poetry-Generator
+
+The creative writing process, including storytelling and poetry composition, often requires significant time, effort, and inspiration. Many individuals, including writers, educators, and hobbyists, struggle with writer’s block or require assistance in generating high-quality content efficiently. Additionally, illustrating written content with appropriate visuals can be a time-consuming process that demands artistic skills. There is a need for an AI-powered solution that can generate compelling stories and poems while providing relevant imagery for each paragraph to enhance reader engagement.
